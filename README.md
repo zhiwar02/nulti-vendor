@@ -1,1 +1,1 @@
-# multi-vendor
+# teacher
